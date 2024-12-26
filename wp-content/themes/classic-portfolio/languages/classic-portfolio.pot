@@ -1,0 +1,912 @@
+# Copyright (C) 2024 classictemplate
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Classic Portfolio 0.1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/classic-portfolio\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-02T12:57:22+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: classic-portfolio\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Classic Portfolio"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#: functions.php:258
+msgid "https://www.theclassictemplates.com/products/free-portfolio-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Classic Portfolio is a sophisticated choice for anyone wanting to showcase their work with elegance and professionalism. Designed for professionals seeking a timeless aesthetic, this design offers sleek and modern page layouts. It is a versatile platform for creatives looking to display their work. The theme is perfect for Portfolio, Business, Creative, Design, Photography, Agency, Studio, Freelancer, Art, Resume, Showcase, Professional, Consultant, Media, Branding. This portfolio is perfect for web developers, photographers, graphic designers, artists, writers, and all freelancers wanting to create a lasting impact on their potential clients, with clean lines and minimalist approach. Your work will take centre stage with this multipurpose theme. The intuitive layout organises your website with various sections like “Portfolio”, “About Me”, “‘Services Offered”, “Testimonials” and “Contact Me”. Your projects are organised well under the “Recent Work” page. Let your expert advice reach the world by adding a “Blog” section. Your projects are organised seamlessly and easy to go through because of the website’s easy navigation. Make your website your creative canvas by making use of adding exceptional quality photos and video using high-definition visual support. Power packed with visually appealing colour palette and typography, this Classic Portfolio theme also makes your website functional. Coming equipped with customizable features, every detail reflects your unique brand and personality. Built-in tools help you with easy updates and maintenance of the website that keeps it secure and running at an optimal speed. Classic Portfolio theme also offers SEO-friendly features and the theme is cross-platform and all-browsers compatible.With translation-ready theme, your work will reach clients beyond your geographical range. Elevate your online presence and impress potential clients with a portfolio that exudes professionalism and refinement. Discover the Classic Portfolio theme today and create a lasting impression with your professional portfolio."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "classictemplate"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.theclassictemplates.com/"
+msgstr ""
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....Don't worry... it happens to the best of us."
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:17
+#: template-parts/post/content-audio.php:91
+#: template-parts/post/content-gallery.php:89
+#: template-parts/post/content-image.php:89
+#: template-parts/post/content-single.php:67
+#: template-parts/post/content-video.php:91
+#: template-parts/post/content.php:89
+#: templates/template-full-width.php:26
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:21
+#: template-parts/post/content-single.php:74
+msgid "Edit"
+msgstr ""
+
+#: footer.php:37
+msgid "footer1"
+msgstr ""
+
+#: footer.php:38
+msgid "Categories"
+msgstr ""
+
+#: footer.php:51
+msgid "footer2"
+msgstr ""
+
+#: footer.php:52
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: footer.php:65
+msgid "footer3"
+msgstr ""
+
+#: footer.php:66
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: footer.php:81
+msgid "footer4"
+msgstr ""
+
+#: footer.php:82
+msgid "Search"
+msgstr ""
+
+#: footer.php:103
+msgid "Classic Portfolio WordPress Theme"
+msgstr ""
+
+#: footer.php:112
+msgid "TOP"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:88
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:89
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:100
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:108
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:110
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:120
+msgid "Footer Widget "
+msgstr ""
+
+#: functions.php:131
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:132
+msgid "Sidebar for WooCommerce shop pages"
+msgstr ""
+
+#: functions.php:141
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions.php:142
+msgid "Sidebar for single product pages"
+msgstr ""
+
+#: functions.php:260
+#: inc/upgrade-to-pro.php:10
+msgid "About Classic Portfolio"
+msgstr ""
+
+#: functions.php:263
+msgid "https://www.theclassictemplates.com/products/portfolio-wordpress-theme"
+msgstr ""
+
+#: functions.php:266
+msgid "https://www.theclassictemplates.com/collections/best-wordpress-templates"
+msgstr ""
+
+#: functions.php:269
+msgid "https://wordpress.org/support/theme/classic-portfolio/"
+msgstr ""
+
+#: functions.php:272
+msgid "https://wordpress.org/support/theme/classic-portfolio/reviews/#new-post"
+msgstr ""
+
+#: functions.php:275
+msgid "https://live.theclassictemplates.com/classic-portfolio-pro/"
+msgstr ""
+
+#: functions.php:278
+msgid "https://live.theclassictemplates.com/demo/docs/classic-portfolio-free/"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:63
+msgid "Menu"
+msgstr ""
+
+#: header.php:67
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:76
+msgid "CLOSE"
+msgstr ""
+
+#: inc/addon.php:25
+#: inc/addon.php:36
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: inc/addon.php:26
+msgid "Theme Info"
+msgstr ""
+
+#: inc/addon.php:39
+msgid "Do you want to configure this theme? Look no further, our easy-to-follow theme documentation will walk you through it."
+msgstr ""
+
+#: inc/addon.php:44
+msgid "Pro version of our theme"
+msgstr ""
+
+#: inc/addon.php:45
+msgid "Are you exited for our theme? Then we will proceed for pro version of theme."
+msgstr ""
+
+#: inc/addon.php:46
+msgid "Go To Premium"
+msgstr ""
+
+#: inc/addon.php:47
+msgid "Check all classic features"
+msgstr ""
+
+#: inc/addon.php:48
+msgid "Explore all the premium features."
+msgstr ""
+
+#: inc/addon.php:49
+#: inc/upgrade-to-pro.php:31
+msgid "Theme Page"
+msgstr ""
+
+#: inc/addon.php:52
+msgid "Need Help?"
+msgstr ""
+
+#: inc/addon.php:53
+msgid "Go to our support forum to help you out in case of queries and doubts regarding our theme."
+msgstr ""
+
+#: inc/addon.php:54
+msgid "Contact Us"
+msgstr ""
+
+#: inc/addon.php:55
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/addon.php:56
+msgid "Are you enjoying our theme? We would love to hear your feedback."
+msgstr ""
+
+#: inc/addon.php:57
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/addon.php:60
+msgid "Check Our Demo"
+msgstr ""
+
+#: inc/addon.php:61
+msgid "Here, you can view a live demonstration of our premium them."
+msgstr ""
+
+#: inc/addon.php:62
+#: inc/upgrade-to-pro.php:25
+msgid "Premium Demo"
+msgstr ""
+
+#: inc/addon.php:63
+#: inc/upgrade-to-pro.php:33
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/addon.php:64
+msgid "Need more details? Please check our full documentation for detailed theme setup."
+msgstr ""
+
+#: inc/addon.php:65
+msgid "Documentation"
+msgstr ""
+
+#: inc/addon.php:70
+msgid "Getting started with %s"
+msgstr ""
+
+#: inc/addon.php:75
+msgid "Theme Description"
+msgstr ""
+
+#: inc/addon.php:82
+msgid "Theme Options"
+msgstr ""
+
+#: inc/addon.php:84
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+#: inc/addon.php:87
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/addon.php:88
+msgid "Checkout Premium"
+msgstr ""
+
+#: inc/addon.php:97
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+
+#: inc/addon.php:100
+msgid "Rate it"
+msgstr ""
+
+#: inc/addon.php:100
+msgctxt "If you like this theme, rate it"
+msgid "rate it"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Enable Site Title"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "WooCommerce Page Settings"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid " Check To Enable Shop page sidebar"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:117
+#: inc/customizer.php:156
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:118
+#: inc/customizer.php:157
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Shop Page Products Navigation"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Check To Enable Single Product Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Single product Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Check To Enable Related product"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Woo Product Img Border Radius"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Woo Products Per Row"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Woo Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Product Sale Position"
+msgstr ""
+
+#: inc/customizer.php:231
+#: inc/customizer.php:292
+#: inc/customizer.php:802
+#: inc/customizer.php:888
+#: inc/customizer.php:1029
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:232
+#: inc/customizer.php:293
+#: inc/customizer.php:803
+#: inc/customizer.php:889
+#: inc/customizer.php:1028
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Theme Options Panel"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Manage Site Layout Section "
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "<p class=\"sec-title\">Manage Site Layout Section</p>"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Check to Show preloader"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Check To Enable Theme Page Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Check to Show Box Layout"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "Theme Page Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:291
+#: inc/customizer.php:801
+#: inc/customizer.php:887
+msgid "Full"
+msgstr ""
+
+#: inc/customizer.php:309
+msgid "Manage Global Color Section"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Manage Header Section"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "Add Button Text"
+msgstr ""
+
+#: inc/customizer.php:361
+msgid "Add Button URL"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Menu Color"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "SubMenu Color"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "SubMenu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Manage Banner Section"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "<p class=\"sec-title\">Manage Banner Section</p> Select Banner Page from the Dropdowns."
+msgstr ""
+
+#: inc/customizer.php:444
+#: inc/customizer.php:605
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Add Banner Small Title"
+msgstr ""
+
+#: inc/customizer.php:469
+msgid "Select Page to display Banner"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Add Banner Button Text"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Add Banner Button Link"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Add Total Number of Satisfied Customers"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Add Total Number of Award Wins"
+msgstr ""
+
+#: inc/customizer.php:523
+msgid "Add Total Number of Successful Projects"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid "Add Total Years of Experience"
+msgstr ""
+
+#: inc/customizer.php:553
+msgid "Select a Category to Highlight Customer Photos"
+msgstr ""
+
+#: inc/customizer.php:563
+msgid "Add Customer Reviews"
+msgstr ""
+
+#: inc/customizer.php:573
+msgid "Add Total Customer Reviews"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Manage My Experience Section"
+msgstr ""
+
+#: inc/customizer.php:591
+msgid "<p class=\"sec-title\">Manage My Experience Section</p>"
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "Add Experience Title"
+msgstr ""
+
+#: inc/customizer.php:630
+msgid "Add Experience Detail"
+msgstr ""
+
+#: inc/customizer.php:642
+msgid "Add Button Text 1"
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "Add Button URL 1"
+msgstr ""
+
+#: inc/customizer.php:666
+msgid "Add Button Text 2"
+msgstr ""
+
+#: inc/customizer.php:678
+msgid "Add Button URL 2"
+msgstr ""
+
+#: inc/customizer.php:688
+msgid "Number of Courses to add"
+msgstr ""
+
+#: inc/customizer.php:702
+msgid "Add Year of Course "
+msgstr ""
+
+#: inc/customizer.php:713
+msgid "Add Course Name "
+msgstr ""
+
+#: inc/customizer.php:724
+msgid "Add University Name "
+msgstr ""
+
+#: inc/customizer.php:741
+msgid "Manage Post Section"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "Check to Enable Date"
+msgstr ""
+
+#: inc/customizer.php:764
+msgid "Check to Enable Comments"
+msgstr ""
+
+#: inc/customizer.php:775
+msgid "Check to Enable Author"
+msgstr ""
+
+#: inc/customizer.php:786
+msgid "Check to Enable Time"
+msgstr ""
+
+#: inc/customizer.php:797
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:798
+msgid "This option work for blog page, archive page and search page."
+msgstr ""
+
+#: inc/customizer.php:804
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:805
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:806
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:816
+msgid "Post Description Length"
+msgstr ""
+
+#: inc/customizer.php:819
+msgid "No Content"
+msgstr ""
+
+#: inc/customizer.php:820
+msgid "Excerpt Content"
+msgstr ""
+
+#: inc/customizer.php:821
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer.php:831
+msgid "Show / Hide Blog Post Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:841
+msgid "Blog Page Image Box Shadow"
+msgstr ""
+
+#: inc/customizer.php:863
+msgid "Manage Single Post Section"
+msgstr ""
+
+#: inc/customizer.php:874
+msgid "Check To Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:884
+msgid "Single post sidebar layout"
+msgstr ""
+
+#: inc/customizer.php:905
+msgid "Manage Footer Section"
+msgstr ""
+
+#: inc/customizer.php:906
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: inc/customizer.php:918
+msgid "Check to Enable Footer Widget"
+msgstr ""
+
+#: inc/customizer.php:927
+msgid "Copyright Line"
+msgstr ""
+
+#: inc/customizer.php:938
+msgid "Copyright Link"
+msgstr ""
+
+#: inc/customizer.php:952
+msgid "Coypright Color"
+msgstr ""
+
+#: inc/customizer.php:965
+msgid "BG Color"
+msgstr ""
+
+#: inc/customizer.php:978
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer.php:991
+msgid "Description Color"
+msgstr ""
+
+#: inc/customizer.php:1004
+msgid "List Color"
+msgstr ""
+
+#: inc/customizer.php:1013
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:1026
+msgid "Scroll To Top Positions"
+msgstr ""
+
+#: inc/customizer.php:1030
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:1041
+msgid "Footer widget area"
+msgstr ""
+
+#: inc/customizer.php:1043
+msgid "One"
+msgstr ""
+
+#: inc/customizer.php:1044
+msgid "Two"
+msgstr ""
+
+#: inc/customizer.php:1045
+msgid "Three"
+msgstr ""
+
+#: inc/customizer.php:1046
+msgid "Four"
+msgstr ""
+
+#: inc/customizer.php:1062
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:1107
+msgid "Select your desired font for the headings."
+msgstr ""
+
+#: inc/customizer.php:1117
+msgid "Select your desired font for the body."
+msgstr ""
+
+#: inc/select/category-dropdown-custom-control.php:27
+msgid "Select Category"
+msgstr ""
+
+#: inc/upgrade-to-pro.php:23
+msgid "Upgrade Pro"
+msgstr ""
+
+#: inc/upgrade-to-pro.php:27
+msgid "Rate Us"
+msgstr ""
+
+#: inc/upgrade-to-pro.php:29
+msgid "Support Forum"
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: post title
+#: no-results.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: post title
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:11
+msgid "sidebar1"
+msgstr ""
+
+#: sidebar.php:17
+msgid "sidebar2"
+msgstr ""
+
+#: template-parts/post/content-audio.php:88
+#: template-parts/post/content-gallery.php:86
+#: template-parts/post/content-image.php:86
+#: template-parts/post/content-video.php:88
+#: template-parts/post/content.php:86
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: templates/template-home-page.php:107
+msgid "No posts found in this category."
+msgstr ""
+
+#: templates/template-home-page.php:128
+msgid "Satisfied Customer"
+msgstr ""
+
+#: templates/template-home-page.php:141
+msgid "Award Win"
+msgstr ""
+
+#: templates/template-home-page.php:154
+msgid "Successful Project"
+msgstr ""
+
+#: templates/template-home-page.php:167
+msgid "Year Of Experience"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:32
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:79
+#: woocommerce/myaccount/form-login.php:86
+#: woocommerce/myaccount/form-login.php:93
+msgid "Required"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
